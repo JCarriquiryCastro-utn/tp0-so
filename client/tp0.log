@@ -1,0 +1,116 @@
+[INFO] 17:55:52:383 TP0/(4690:4690): Hola! Soy un log
+[INFO] 18:16:47:667 TP0/(4946:4946): Hola! Soy un log
+[INFO] 18:20:11:193 TP0/(5005:5005): Hola! Soy un log
+[INFO] 18:25:09:477 TP0/(5157:5157): Hola! Soy un log
+[INFO] 18:25:09:480 TP0/(5157:5157): La IP y el puerto fueron leidos (null)
+
+[INFO] 18:27:03:857 TP0/(5181:5181): Hola! Soy un log
+[INFO] 18:27:03:863 TP0/(5181:5181): La IP y el puerto fueron leidos 127.0.0.1
+
+[INFO] 18:46:56:528 TP0/(5343:5343): Hola! Soy un log
+[INFO] 18:46:56:532 TP0/(5343:5343): La IP y el puerto fueron leidos 127.0.0.1
+
+[INFO] 18:50:00:827 TP0/(5403:5403): Hola! Soy un log
+[INFO] 18:50:00:830 TP0/(5403:5403): La IP y el puerto fueron leidos 127.0.0.1
+
+[INFO] 19:35:13:825 TP0/(3364:3364): Hola! Soy un log
+[INFO] 19:35:13:827 TP0/(3364:3364): La clave leida es (null)
+
+[INFO] 21:04:27:775 TP0/(4156:4156): Hola! Soy un log
+[INFO] 21:04:27:779 TP0/(4156:4156): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 21:05:30:034 TP0/(4192:4192): Hola! Soy un log
+[INFO] 21:05:30:042 TP0/(4192:4192): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 21:08:35:676 TP0/(4345:4345): Hola! Soy un log
+[INFO] 21:08:35:680 TP0/(4345:4345): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 21:30:11:053 TP0/(4738:4738): Hola! Soy un log
+[INFO] 21:30:11:056 TP0/(4738:4738): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 21:33:36:285 TP0/(4832:4832): Hola! Soy un log
+[INFO] 21:33:36:289 TP0/(4832:4832): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 21:36:30:039 TP0/(4923:4923): Hola! Soy un log
+[INFO] 21:36:30:046 TP0/(4923:4923): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 21:37:38:182 TP0/(4956:4956): Hola! Soy un log
+[INFO] 21:37:38:189 TP0/(4956:4956): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 21:44:45:958 TP0/(5120:5120): Hola! Soy un log
+[INFO] 21:44:45:967 TP0/(5120:5120): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 21:49:14:884 TP0/(5217:5217): Hola! Soy un log
+[INFO] 21:49:14:890 TP0/(5217:5217): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 21:55:18:869 TP0/(5362:5362): Hola! Soy un log
+[INFO] 21:55:18:870 TP0/(5362:5362): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 23:54:33:375 TP0/(2030:2030): Hola! Soy un log
+[INFO] 23:54:33:378 TP0/(2030:2030): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 23:54:36:820 TP0/(2041:2041): Hola! Soy un log
+[INFO] 23:54:36:822 TP0/(2041:2041): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 23:54:39:630 TP0/(2047:2047): Hola! Soy un log
+[INFO] 23:54:39:636 TP0/(2047:2047): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 00:13:01:714 TP0/(2488:2488): Hola! Soy un log
+[INFO] 00:13:01:721 TP0/(2488:2488): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 00:13:06:558 TP0/(2488:2488): hola
+[INFO] 00:15:39:467 TP0/(2588:2588): Hola! Soy un log
+[INFO] 00:15:39:474 TP0/(2588:2588): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 00:15:45:020 TP0/(2588:2588): hola
+[INFO] 00:18:55:149 TP0/(2664:2664): Hola! Soy un log
+[INFO] 00:18:55:156 TP0/(2664:2664): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 00:19:23:939 TP0/(2664:2664): ggg
+[INFO] 00:19:37:235 TP0/(2664:2664): gabi
+[INFO] 00:19:41:097 TP0/(2664:2664): chabe
+[INFO] 00:19:48:921 TP0/(2664:2664): 
+[INFO] 20:01:02:291 TP0/(2493:2493): Hola! Soy un log
+[INFO] 20:01:02:307 TP0/(2493:2493): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 20:01:07:337 TP0/(2493:2493): hola
+[INFO] 20:01:08:834 TP0/(2493:2493): 
+[INFO] 20:02:31:680 TP0/(2529:2529): Hola! Soy un log
+[INFO] 20:02:36:718 TP0/(2529:2529): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 20:02:40:679 TP0/(2529:2529): 
+[INFO] 20:15:49:625 TP0/(2785:2785): Hola! Soy un log
+[INFO] 20:15:49:653 TP0/(2785:2785): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 20:16:10:117 TP0/(2785:2785): hola
+[INFO] 20:16:11:080 TP0/(2785:2785): 
+[INFO] 20:17:18:665 TP0/(2828:2828): Hola! Soy un log
+[INFO] 20:17:23:522 TP0/(2828:2828): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 20:17:32:488 TP0/(2828:2828): hola
+[INFO] 20:17:34:062 TP0/(2828:2828): 
+[INFO] 20:20:13:622 TP0/(2919:2919): Hola! Soy un log
+[INFO] 20:20:13:629 TP0/(2919:2919): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 20:20:15:299 TP0/(2919:2919): 
+[INFO] 20:20:49:610 TP0/(2958:2958): Hola! Soy un log
+[INFO] 20:20:55:143 TP0/(2958:2958): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 20:20:59:237 TP0/(2958:2958): 
+[INFO] 20:30:34:361 TP0/(3417:3417): Hola! Soy un log
+[INFO] 20:30:34:383 TP0/(3417:3417): La IP 127.0.0.1 , el puerto 4444 y el valor (null) fueron leidos
+
+[INFO] 20:30:36:945 TP0/(3417:3417): 
+[INFO] 20:31:12:502 TP0/(3445:3445): Hola! Soy un log
+[INFO] 20:31:12:509 TP0/(3445:3445): La IP 127.0.0.1 , el puerto 4444 y el valor (null) fueron leidos
+
+[INFO] 20:31:59:854 TP0/(3493:3493): Hola! Soy un log
+[INFO] 20:31:59:861 TP0/(3493:3493): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 20:32:02:122 TP0/(3493:3493): 
+[INFO] 20:47:41:556 TP0/(3887:3887): Hola! Soy un log
+[INFO] 20:47:41:570 TP0/(3887:3887): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+
+[INFO] 21:23:33:743 TP0/(4086:4086): Hola! Soy un log
+[INFO] 21:23:33:759 TP0/(4086:4086): La IP 127.0.0.1 , el puerto 4444 y el valor 2 fueron leidos
+

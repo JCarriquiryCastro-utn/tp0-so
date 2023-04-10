@@ -1,0 +1,12 @@
+[INFO] 20:30:17:385 Servidor/(3382:3382): Servidor listo para recibir al cliente
+[INFO] 20:30:26:156 Servidor/(3401:3401): Servidor listo para recibir al cliente
+[INFO] 20:30:36:945 Servidor/(3382:3382): Se conecto un cliente!
+[ERROR] 20:30:36:947 Servidor/(3382:3382): el cliente se desconecto. Terminando servidor
+[INFO] 20:32:36:042 Servidor/(3509:3509): Servidor listo para recibir al cliente
+[INFO] 20:46:59:044 Servidor/(3825:3825): Servidor listo para recibir al cliente
+[INFO] 20:47:29:142 Servidor/(3843:3843): Servidor listo para recibir al cliente
+[INFO] 20:47:41:584 Servidor/(3509:3509): Se conecto un cliente!
+[ERROR] 20:47:41:586 Servidor/(3509:3509): el cliente se desconecto. Terminando servidor
+[INFO] 21:23:24:630 Servidor/(4069:4069): Servidor listo para recibir al cliente
+[INFO] 21:23:33:760 Servidor/(4069:4069): Se conecto un cliente!
+[ERROR] 21:23:33:761 Servidor/(4069:4069): el cliente se desconecto. Terminando servidor
